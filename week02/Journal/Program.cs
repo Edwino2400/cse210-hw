@@ -6,7 +6,8 @@ class Program
         PromptGenerator generator = new PromptGenerator();
 
         bool online = true;
-        while (online)
+        while (online
+        )
         {
             Console.WriteLine("Journal Menu");
             Console.WriteLine("1. New Entry");
