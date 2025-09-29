@@ -69,14 +69,14 @@ class Program
                 new Comment("Andrew", "I loved the examples.")
             }},
             { "Object-Oriented Programming", new List<Comment> {
-                new Comment("Sara", "OOP finally makes sense!"),
-                new Comment("Tom", "Can you make a part 2?"),
-                new Comment("Nina", "Excellent explanation.")
+                new Comment("Nutty", "OOP finally makes sense!"),
+                new Comment("Jake", "Can you make a part 2?"),
+                new Comment("Paul", "Excellent explanation.")
             }},
             { "Advanced C#", new List<Comment> {
-                new Comment("Jake", "This was challenging but rewarding."),
-                new Comment("Lily", "Thanks for the deep dive."),
-                new Comment("Sam", "I learned a lot from this video.")
+                new Comment("Mike", "This was challenging but rewarding."),
+                new Comment("Tyson", "Thanks for the deep dive."),
+                new Comment("Loyd", "I learned a lot from this video.")
             }}
         };
 
