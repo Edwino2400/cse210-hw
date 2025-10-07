@@ -1,9 +1,14 @@
 using System;
 
-class Program
+namespace MindfulnessApp
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Hello World! This is the Mindfulness Project.");
+        static void Main(string[] args)
+        {
+            Console.CursorVisible = false;
+            var menu = new Menu();
+            menu.Run();
+        }
     }
 }
